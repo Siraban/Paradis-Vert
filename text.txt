@@ -1,3 +1,6 @@
 
-
-      infinite-loop-with-slides-per-group
+1- git status
+2- git add .
+3- git status
+4- git commit -m "Nom du commit"
+5- git push
